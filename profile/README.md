@@ -1,6 +1,10 @@
 <p align="center">
-  <img src="https://i.imgur.com/xxddKcB.png" alt="splrge banner" />
-</p>
-<p align="center">
-  Visit <a href="https://splrge.dev">splrge.dev</a>
-</p>
+<img src="https://s3.splrge.dev/assets/brand/logo_color_banner.png">              
+</p> 
+<!--
+<h1 align="center" style="font-weight: bold;">Title</h1>
+<p align="center">Description</p>
+-->
+
+## ✨ Thanks to your sponsors 
+<!-- sponsors --><!-- sponsors -->
