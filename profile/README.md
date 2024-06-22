@@ -7,4 +7,4 @@
 -->
 
 ## ✨ Thanks to your sponsors 
-<!-- sponsors --><!-- sponsors -->
+<!-- sponsors --><a href="https://github.com/Lovlob"><img src="https://github.com/Lovlob.png" width="60px" alt="Loris" /></a><!-- sponsors -->
